@@ -4,6 +4,7 @@ spring:
       uri: mongodb+srv://admin:password1234@cluster0-9z5kr.mongodb.net/Catal?retryWrites=true
 server:
   port: 8087
+me.email: "boukhari.moez@gmail.com"
 # eureka:
 #   client:
 #     # service-url:
