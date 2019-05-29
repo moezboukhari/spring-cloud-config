@@ -5,6 +5,7 @@ spring:
 server:
   port: 8087
 me.email: "boukhari.moez@gmail.com"
+me.owner: Moez Boukhari
 # eureka:
 #   client:
 #     # service-url:
