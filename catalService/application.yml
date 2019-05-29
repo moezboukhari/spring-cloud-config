@@ -1,4 +1,6 @@
 spring:
+  activemq:
+    broker-url: "localhost:15672"
   data:
     mongodb:
       uri: mongodb+srv://admin:password1234@cluster0-9z5kr.mongodb.net/Catal?retryWrites=true
